@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://juan9507.github.io/my-portafolio/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateog147&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateog147&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateog147&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateog147&layout=compact&langs_count=16"/>
 </div>
 
 <!--
