@@ -1,20 +1,42 @@
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Mateo!&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35%"/>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateog147&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateog147&layout=compact&langs_count=16"/>
+  <br/>
+
+  <!-- Redes Sociales -->
+  <a href="https://www.linkedin.com/in/mateog147">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mateog147">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
 </div>
 
-<!--
-**mateog147/mateog147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 🚀 Alqui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente, estoy ayudando a construir **[Alqui](https://www.alqui.com.co/)**.
+
+> 🏠 **Nuestra misión:** Simplificar el pago de alquileres para **nómadas digitales** y propietarios en América Latina. Permitimos pagar la renta en un clic, ganar recompensas y construir reputación crediticia en toda la región.
+
+---
+
+## 🛠️ Tech Stack & Herramientas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+</div>
+
+
+<br/>
+
+---
+<div align="center">
+  <p>📍 Basado en Colombia | 💼 Trabajando en Mercado Libre | 🏗️ Construyendo Alqui</p>
+</div>
+
